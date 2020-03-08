@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "242198420759",
+    "firebase_url": "https://go4lunch-nycko.firebaseio.com",
+    "project_id": "go4lunch-nycko",
+    "storage_bucket": "go4lunch-nycko.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242198420759:android:c2e3bddb1725f6a273eb52",
+        "android_client_info": {
+          "package_name": "com.nycko.go4lunch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242198420759-q17j1uu0o0fvcpe2j16oh833c8uk6rc5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nycko.go4lunch",
+            "certificate_hash": "c065722cb663fca442662860f0559e186f957a05"
+          }
+        },
+        {
+          "client_id": "242198420759-j37lpop5rckmb8emqtcgvjljhmaff1t3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD8rqyQNykqbz_sx_QiONg6fDtpCmmVxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242198420759-j37lpop5rckmb8emqtcgvjljhmaff1t3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
